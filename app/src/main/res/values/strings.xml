@@ -1,0 +1,81 @@
+<resources>
+    <string name="app_name">Google Like A Pro</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="etSearch"></string>
+    <string name="etSearchText">Enter text or select operators.</string>
+    <string name="oper1"></string>
+    <string name="oper1Text"></string>
+    <string name="oper2"></string>
+    <string name="oper2Text"></string>
+    <string name="oper3"></string>
+    <string name="oper3Text"></string>
+    <string name="oper4"></string>
+    <string name="oper4Text"></string>
+    <string name="oper5"></string>
+    <string name="oper5Text"></string>
+    <string name="oper6"></string>
+    <string name="oper6Text"></string>
+    <string name="oper7"></string>
+    <string name="oper7Text"></string>
+    <string name="oper8"></string>
+    <string name="oper8Text"></string>
+    <string name="oper9"></string>
+    <string name="oper9Text"></string>
+
+
+    <!--HELP STRINGS FOR OPERATORS-->
+
+    <string-array
+        name="oper_text">
+        <item>\u002B</item>
+        <item>\@</item>
+        <item>$</item>
+        <item>#</item>
+        <item>-</item>
+        <item>\"\"</item>
+        <item>*</item>
+        <item>..</item>
+        <item>site:</item>
+        <item>link:</item>
+        <item>related:</item>
+        <item>OR</item>
+        <item>info:</item>
+        <item>cache:</item>
+    </string-array>
+
+    <string-array
+        name="oper_help_array">
+        <item>Searches for Google\+ pages or blood types. Example: \+Chrome or AB\+.</item>
+        <item>Find social tags. Examples: \@somegoogler.</item>
+        <item>Find prices. Example: fitbit $400</item>
+        <item>Find popular hashtags for trending topics. Example: #GamerGate</item>
+        <item>Excludes sites with the attached word. Example: jaguar -cat</item>
+        <item>Includes only sites with the contained words. Example: star wars \"no spoilers\"</item>
+        <item>Acts as a placeholder for wildcard terms. Example: a * in the hand is worth two in the *.</item>
+        <item>Separate numbers by two periods for results between those numbers. Example: $50..$100.</item>
+        <item>Get results from certain sites. Example: olympics site:cnn.com.</item>
+        <item>Find pages that link to a certain page. Example: link:youtube.com.</item>
+        <item>Find sites that are similar to a web address you already know. Example: related:time.com. </item>
+        <item>Find pages that might use one of several words. Example: A Bugs Life OR Antz</item>
+        <item>Get web analytics for an address. Example: info:imbd.com.</item>
+        <item>See what a page looks like the last time Google visited the site. Example: cache:cnn.com</item>
+    </string-array>
+    <!--
+    <string name="operHelp1">Searches for Google+ pages or blood types. Example: +Chrome or AB+.</string>
+    <string name="operHelp2">Find social tags. Examples: @somegoogler.</string>
+    <string name="operHelp3">Find prices. Example: fitbit $400</string>
+    <string name="operHelp4">Find popular hashtags for trending topics. Example: #GamerGate</string>
+    <string name="operHelp5">Excludes sites with the attached word. Example: jaguar -cat</string>
+    <string name="operHelp6">Includes only sites with the contained words. Example: star wars "no spoilers"</string>
+    <string name="operHelp7">Acts as a placeholder for wildcard terms. Example: a * in the hand is worth two in the *.</string>
+    <string name="operHelp8">Separate numbers by two periods for results between those numbers. Example: $50..$100. </string>
+    <string name="operHelp9">Get results from certain sites. Example: olympics site:cnn.com.</string>
+    <string name="operHelp10">Find pages that link to a certain page. Example: link:youtube.com.</string>
+    <string name="operHelp11">Find sites that are similar to a web address you already know. Example: related:time.com. </string>
+    <string name="operHelp12">Find pages that might use one of several words. Example: A Bug's Life OR Antz</string>
+    <string name="operHelp13">Get web analytics for an address. Example: info:imbd.com.</string>
+    <string name="operHelp14">See what a page looks like the last time Google visited the site. Example: cache:cnn.com</string>
+    -->
+
+</resources>
